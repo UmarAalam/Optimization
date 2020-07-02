@@ -1,2 +1,2 @@
-# Logic-Optimization
-C code implementation of my research project under MS(Research) program
+# Optimization
+C code implementation of my research project#1 under MS(Research) program
